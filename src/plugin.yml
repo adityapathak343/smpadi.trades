@@ -1,0 +1,19 @@
+  name: TradingSMPAdi
+  main: me.smpadi.trades
+  version: 1.4.1
+  commands:
+    trade:
+      description: to initiate trade
+      usage: /trade <player> <message>
+    yestrade:
+      description: to accept trade with item in hand
+      usage: /yestrade
+    notrade:
+      description: to reject trade
+      usage: /notrade
+    accept:
+      description: to accept final trade
+      usage: /accept
+    reject:
+      description: to reject final trade
+      usage: /reject
